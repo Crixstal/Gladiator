@@ -3,7 +3,7 @@
 ## **Summary**
 - [Description](##escription)
 - [Controls](#Controls)
-- [Bonus Features](#Bonus%20Features)
+- [Bonus Features](#Bonus-Features)
 - [Remark](#Remark)
 
 <br>
