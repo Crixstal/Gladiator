@@ -1,16 +1,10 @@
 # **Gladiator**
 
 ## **Summary**
-- [Description](##Description)
-- [Controls](##Controls)
-- [Bonus Features](##Bonus%20Features)
-- [Remark](##Remark)
-
-<br>
-
-## **Description**
-
-The project objective is to create a beat'em all, to put into practice all the skills learned on the engine.
+- [Description](##escription)
+- [Controls](#Controls)
+- [Bonus Features](#Bonus%20Features)
+- [Remark](#Remark)
 
 <br>
 
@@ -88,3 +82,7 @@ Visual FX
 - Enemy's life is only displayed when an enemy is locked
 
 - Because there is two light source in the scene (Light Source and DirectionalLight1 in DesertArenaBlueprint), shadows and ambient brightness can be a bit messy.
+
+<br>
+
+[Head of page](#Summary)
