@@ -1,0 +1,8 @@
+[Bb]inaries
+[Bb]uild
+[Ss]aved
+[Ii]ntermediate
+
+.vs/**
+*.sln
+enc_temp_folder
