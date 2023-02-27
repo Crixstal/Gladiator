@@ -1,23 +1,10 @@
-# **Gladiator**
-
-## **Summary**
-- [Description](##Description)
-- [Controls](##Controls)
-- [Bonus Features](##Bonus%20Features)
-- [Remark](##Remark)
-
-<br>
-
-## **Description**
-
-The project objective is to create a beat'em all, to put into practice all the skills learned on the engine.
-
-<br>
+![shool_year](https://img.shields.io/badge/shool_year-second-blue)
+![duration](https://img.shields.io/badge/duration-2_weeks-blue)  
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_4-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white&style=plastic)
 
 ## **Controls**
 
-QWERTY / AZERTY
----
+### QWERTY / AZERTY
 
 Command                            | Action
 -------                            | ------
@@ -32,10 +19,7 @@ Mouse Left click                   | Defend
 Mouse wheel click / Left Control   | Lock / Unlock
 Mouse wheel up / down              | Change locked enemy
 
-<br>
-
-XBOX Controller
----
+### XBOX Controller
 
 Command                 | Action
 -------                 | ------
@@ -46,42 +30,6 @@ A / B                   | Attack
 Left / Right Trigger    | Defend
 R3                      | Lock / Unlock
 Left / Right Shoulder   | Change locked enemy
-
-<br>
-
-## **Bonus Features**
-
-Input
----
-- XBOX controller supported in game and menus
-
-UI
----
-- Main Menu
-- Pause Menu
-
-Lock
----
-- Lock an enemy
-- Change locked enemy
-- Show only locked enemy health
-- Player always face locked enemy
-
-Sounds
----
-- Random sound when attacking
-- Different sounds when attack is missed or not
-- Ambient music
-- Footsteps depending of surface
-- Different musics depending time of day
-
-Visual FX
----
-- Walking effect
-- Blood effect
-- Day/Night cycle
-
-<br>
 
 ## **Remark**
 
