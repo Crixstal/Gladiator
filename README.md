@@ -4,6 +4,10 @@
 
 https://user-images.githubusercontent.com/91843760/221709652-cbfd0bab-d25a-4cc8-9135-8c0f98d55ffe.mp4
 
+## **Informations**
+
+This project allowed us to better understand how to use C++ and Blueprint at the same time on Unreal Engine, as well as a first approach to AI with the integrated Behavior Tree.
+
 ## **Controls**
 
 ### QWERTY / AZERTY
